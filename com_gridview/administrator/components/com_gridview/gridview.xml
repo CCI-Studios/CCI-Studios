@@ -12,11 +12,11 @@
 	<description>COM_OPEN_GRIDVIEW_XML_DESCRIPTION</description>
 	
 	<install><sql>
-		<file charset="utf8" driver="mysql">install/install.sql</file>
+		<file charset="utf8" driver="mysql">install/install.utf8.sql</file>
 	</sql></install>
 	
 	<uninstall><sql>
-		<file charset="utf8" driver="mysql">install/uninstall.sql</file>
+		<file charset="utf8" driver="mysql">install/uninstall.utf8.sql</file>
 	</sql></uninstall>
 
 	<files folder="site">
