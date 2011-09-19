@@ -28,7 +28,7 @@
 	</files>
 	
 	<administration>
-		<menu view="pages" img="media/com_gridview/images/favicon.png" link="option=com_gridview">Grid View</menu>
+		<menu img="media/com_gridview/images/favicon.png">com_gridview</menu>
 		
 		<files>
 			<filename>config.xml</filename>
